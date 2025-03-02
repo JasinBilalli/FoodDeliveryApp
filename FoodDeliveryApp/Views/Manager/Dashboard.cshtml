@@ -1,0 +1,34 @@
+﻿@model List<FoodDeliveryApp.Models.Order>
+
+<h2>Dashboard</h2>
+<p>Total Revenue: $<span>@ViewBag.Revenue</span></p>
+<canvas id="orderChart"></canvas>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        var ctx = document.getElementById('orderChart').getContext('2d');
+        var chart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['Pending', 'Ordered', 'Ready to Send', 'Done', 'Failed'],
+                datasets: [{
+                    label: 'Orders',
+                    data: [
+        @Model.Count(o => o.Status == "Pending"),
+        @Model.Count(o => o.Status == "Ordered"),
+        @Model.Count(o => o.Status == "Ready to Send"),
+        @Model.Count(o => o.Status == "Done"),
+        @Model.Count(o => o.Status == "Failed")
+                    ],
+                    backgroundColor: ['#808080', '#D3D3D3', '#90EE90', '#008000', '#FF0000']
+                }]
+            },
+            options: {
+                scales: {
+                    y: { beginAtZero: true }
+                }
+            }
+        });
+    </script>
+}

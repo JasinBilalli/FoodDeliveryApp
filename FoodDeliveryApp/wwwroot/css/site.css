@@ -1,0 +1,17 @@
+.btn-primary {
+    background-color: #4A90E2;
+    border-color: #4A90E2;
+}
+
+    .btn-primary:hover {
+        background-color: #357ABD;
+        border-color: #357ABD;
+    }
+
+.navbar {
+    background-color: #2ECC71 !important;
+}
+
+.card {
+    border-radius: 10px;
+}

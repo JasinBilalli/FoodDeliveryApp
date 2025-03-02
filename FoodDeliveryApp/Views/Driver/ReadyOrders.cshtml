@@ -1,0 +1,44 @@
+﻿@model List<FoodDeliveryApp.Models.Order>
+
+<h2>Ready Orders</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Customer</th>
+            <th>Phone</th>
+            <th>Address</th>
+            <th>Items</th>
+            <th>Payment</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.CustomerName</td>
+                <td>@order.CustomerPhone</td>
+                <td>@order.CustomerAddress</td>
+                <td>
+                    @foreach (var item in order.OrderItems)
+                    {
+                        <div>@item.MenuItem.Title (Qty: @item.Quantity)</div>
+                    }
+                </td>
+                <td>@order.PaymentMethod</td>
+                <td>@order.Status</td>
+                <td>
+                    <form asp-action="MarkDone" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@order.Id" />
+                        <button type="submit" class="btn btn-success rounded">Done</button>
+                    </form>
+                    <form asp-action="MarkFailed" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@order.Id" />
+                        <button type="submit" class="btn btn-danger rounded">Failed</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

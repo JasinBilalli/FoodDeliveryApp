@@ -1,0 +1,29 @@
+﻿@model List<FoodDeliveryApp.Models.Order>
+
+<h2>Done Orders</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Customer</th>
+            <th>Date</th>
+            <th>Items</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.CustomerName</td>
+                <td>@order.OrderDate</td>
+                <td>
+                    @foreach (var item in order.OrderItems)
+                    {
+                        <div>@item.MenuItem.Title (Qty: @item.Quantity)</div>
+                    }
+                </td>
+                <td>@order.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>

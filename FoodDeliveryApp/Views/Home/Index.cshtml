@@ -1,0 +1,61 @@
+﻿@model List<FoodDeliveryApp.Models.MenuItem>
+@{
+    var categories = ViewBag.Categories as List<FoodDeliveryApp.Models.Category>;
+}
+
+<div id="carouselExample" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+    <div class="carousel-inner">
+        @if (categories != null && categories.Any())
+        {
+            @foreach (var cat in categories)
+            {
+                <div class="carousel-item @(cat == categories.First() ? "active" : "")">
+                    <img src="/images/@cat.ImagePath" class="d-block w-100" alt="@cat.Name" style="height: 300px; object-fit: cover;" onerror="this.src='/images/placeholder.jpg';">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5><a href="@Url.Action("Category", "Home", new { id = cat.Id })" style="color: white; text-decoration: none;">@cat.Name</a></h5>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="carousel-item active">
+                <img src="/images/placeholder.jpg" class="d-block w-100" alt="No Categories" style="height: 300px; object-fit: cover;">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>No Categories Available</h5>
+                </div>
+            </div>
+        }
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+@if (ViewBag.Error != null)
+{
+    <p class="text-danger">@ViewBag.Error</p>
+}
+
+<h2>Menu</h2>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img src="/images/@item.ImagePath" class="card-img-top" alt="@item.Title" style="height: 200px; object-fit: cover;" onerror="this.src='/images/placeholder.jpg';">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Title</h5>
+                    <p class="card-text">@item.Description</p>
+                    <p class="card-text"><strong>$@item.Price</strong></p>
+                    <a href="@Url.Action("Details", "Home", new { id = item.Id })" class="btn btn-primary rounded">Order</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

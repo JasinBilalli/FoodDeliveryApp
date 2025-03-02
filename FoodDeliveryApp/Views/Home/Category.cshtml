@@ -1,0 +1,22 @@
+﻿@model List<FoodDeliveryApp.Models.MenuItem>
+@{
+    var category = ViewBag.Category as FoodDeliveryApp.Models.Category;
+}
+
+<h2>@category.Name</h2>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img src="/images/@item.ImagePath" class="card-img-top" alt="@item.Title" style="height: 200px; object-fit: cover;" onerror="this.src='/images/placeholder.jpg';">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Title</h5>
+                    <p class="card-text">@item.Description</p>
+                    <p class="card-text"><strong>$@item.Price</strong></p>
+                    <a href="@Url.Action("Details", "Home", new { id = item.Id })" class="btn btn-primary rounded">Order</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

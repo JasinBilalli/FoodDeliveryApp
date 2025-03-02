@@ -1,0 +1,17 @@
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\bin\Debug\net8.0\FoodDeliveryApp.BLL.deps.json
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\bin\Debug\net8.0\FoodDeliveryApp.BLL.dll
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\bin\Debug\net8.0\FoodDeliveryApp.BLL.pdb
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\bin\Debug\net8.0\FoodDeliveryApp.Data.dll
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\bin\Debug\net8.0\FoodDeliveryApp.Models.dll
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\bin\Debug\net8.0\FoodDeliveryApp.Data.pdb
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\bin\Debug\net8.0\FoodDeliveryApp.Models.pdb
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\obj\Debug\net8.0\FoodDeliveryApp.BLL.csproj.AssemblyReference.cache
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\obj\Debug\net8.0\FoodDeliveryApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\obj\Debug\net8.0\FoodDeliveryApp.BLL.AssemblyInfoInputs.cache
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\obj\Debug\net8.0\FoodDeliveryApp.BLL.AssemblyInfo.cs
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\obj\Debug\net8.0\FoodDeliveryApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\obj\Debug\net8.0\FoodDeli.D37EFFED.Up2Date
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\obj\Debug\net8.0\FoodDeliveryApp.BLL.dll
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\obj\Debug\net8.0\refint\FoodDeliveryApp.BLL.dll
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\obj\Debug\net8.0\FoodDeliveryApp.BLL.pdb
+C:\Users\Jasin\source\repos\FoodDeliveryApp.BLL\obj\Debug\net8.0\ref\FoodDeliveryApp.BLL.dll

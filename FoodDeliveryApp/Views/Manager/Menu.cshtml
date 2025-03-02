@@ -1,0 +1,56 @@
+﻿@model List<FoodDeliveryApp.Models.MenuItem>
+@{
+    var categories = ViewBag.Categories as List<FoodDeliveryApp.Models.Category>;
+}
+
+<h2>Menu</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Category</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Category.Name</td>
+                <td>$@item.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<form asp-action="AddMenuItem" method="post">
+    <div class="mb-3">
+        <input type="text" name="title" class="form-control" placeholder="Title" required />
+    </div>
+    <div class="mb-3">
+        <input type="text" name="description" class="form-control" placeholder="Description" required />
+    </div>
+    <div class="mb-3">
+        <input type="text" name="imagePath" class="form-control" placeholder="Image Path" required />
+    </div>
+    <div class="mb-3">
+        <select name="categoryId" class="form-control" required>
+            @foreach (var cat in categories)
+            {
+                <option value="@cat.Id">@cat.Name</option>
+            }
+        </select>
+    </div>
+    <div class="mb-3">
+        <input type="number" step="0.01" name="price" class="form-control" placeholder="Price" required />
+    </div>
+    <button type="submit" class="btn btn-primary rounded">Add Item</button>
+</form>
+
+<form asp-action="UploadMenu" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <input type="file" name="file" class="form-control" accept=".xlsx" required />
+    </div>
+    <button type="submit" class="btn btn-primary rounded">Upload Excel</button>
+</form>

@@ -1,0 +1,573 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FoodDeliveryApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FoodDeliveryApp.rcszi7c82y.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\back_button_icon.png",
+      "PackagePath": "staticwebassets\\images\\back_button_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\bbq_chicken_delight.jpg",
+      "PackagePath": "staticwebassets\\images\\bbq_chicken_delight.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\bbq_ranch_delight.jpg",
+      "PackagePath": "staticwebassets\\images\\bbq_ranch_delight.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\beef_stir_fry_with_broccoli.jpg",
+      "PackagePath": "staticwebassets\\images\\beef_stir_fry_with_broccoli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\berry_blast_smoothie.jpg",
+      "PackagePath": "staticwebassets\\images\\berry_blast_smoothie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\burger.png",
+      "PackagePath": "staticwebassets\\images\\burger.png"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\burger_and_cheese_heaven.jpg",
+      "PackagePath": "staticwebassets\\images\\burger_and_cheese_heaven.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\california_roll.jpg",
+      "PackagePath": "staticwebassets\\images\\california_roll.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\chicago_style_hot_dog.jpg",
+      "PackagePath": "staticwebassets\\images\\chicago_style_hot_dog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\chicken_avocado_bliss.jpg",
+      "PackagePath": "staticwebassets\\images\\chicken_avocado_bliss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\chili_cheese_dog.jpg",
+      "PackagePath": "staticwebassets\\images\\chili_cheese_dog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\classic_beef_burger.jpg",
+      "PackagePath": "staticwebassets\\images\\classic_beef_burger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\classic_beef_hot_dog.jpg",
+      "PackagePath": "staticwebassets\\images\\classic_beef_hot_dog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\coconut_water.jpg",
+      "PackagePath": "staticwebassets\\images\\coconut_water.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\default_image_background.xml",
+      "PackagePath": "staticwebassets\\images\\default_image_background.xml"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\default_image_foreground.xml",
+      "PackagePath": "staticwebassets\\images\\default_image_foreground.xml"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\dessert.png",
+      "PackagePath": "staticwebassets\\images\\dessert.png"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\dragon_roll.jpg",
+      "PackagePath": "staticwebassets\\images\\dragon_roll.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\drinks.png",
+      "PackagePath": "staticwebassets\\images\\drinks.png"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\espresso_martini.jpg",
+      "PackagePath": "staticwebassets\\images\\espresso_martini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\four_cheese_delight.jpg",
+      "PackagePath": "staticwebassets\\images\\four_cheese_delight.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\fresh_orange_juice.jpg",
+      "PackagePath": "staticwebassets\\images\\fresh_orange_juice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\garlic_parmesan_chicken.jpg",
+      "PackagePath": "staticwebassets\\images\\garlic_parmesan_chicken.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\green_tea_latte.jpg",
+      "PackagePath": "staticwebassets\\images\\green_tea_latte.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\grilled_ribeye_steak.jpg",
+      "PackagePath": "staticwebassets\\images\\grilled_ribeye_steak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\hawaiian_bbq_dog.jpg",
+      "PackagePath": "staticwebassets\\images\\hawaiian_bbq_dog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\hawaiian_paradise.jpg",
+      "PackagePath": "staticwebassets\\images\\hawaiian_paradise.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\honey_mustard_glaz_tenders.jpg",
+      "PackagePath": "staticwebassets\\images\\honey_mustard_glaz_tenders.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\ic_launcher_background.xml",
+      "PackagePath": "staticwebassets\\images\\ic_launcher_background.xml"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\ic_launcher_foreground.xml",
+      "PackagePath": "staticwebassets\\images\\ic_launcher_foreground.xml"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\iced_caramel_macchiato.jpg",
+      "PackagePath": "staticwebassets\\images\\iced_caramel_macchiato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\kimchi_hot_dog.jpg",
+      "PackagePath": "staticwebassets\\images\\kimchi_hot_dog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\korean_bbq_short_ribs.jpg",
+      "PackagePath": "staticwebassets\\images\\korean_bbq_short_ribs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\korean_fried_chicken.jpg",
+      "PackagePath": "staticwebassets\\images\\korean_fried_chicken.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\lemon_pepper_chicken.jpg",
+      "PackagePath": "staticwebassets\\images\\lemon_pepper_chicken.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\logout_icon.png",
+      "PackagePath": "staticwebassets\\images\\logout_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\mango_tango_slush.jpg",
+      "PackagePath": "staticwebassets\\images\\mango_tango_slush.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\margherita.jpg",
+      "PackagePath": "staticwebassets\\images\\margherita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\margherita_flatbread.jpg",
+      "PackagePath": "staticwebassets\\images\\margherita_flatbread.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\meat_feast_pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\meat_feast_pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\mediterranean_joy.jpg",
+      "PackagePath": "staticwebassets\\images\\mediterranean_joy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\mint_lemonade.jpg",
+      "PackagePath": "staticwebassets\\images\\mint_lemonade.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\mushroom_swiss_delight.jpg",
+      "PackagePath": "staticwebassets\\images\\mushroom_swiss_delight.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\original_crispy_chicken.jpg",
+      "PackagePath": "staticwebassets\\images\\original_crispy_chicken.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\pa_seared_garlic_butter_sirloin.jpg",
+      "PackagePath": "staticwebassets\\images\\pa_seared_garlic_butter_sirloin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\pasta_carbonara.jpg",
+      "PackagePath": "staticwebassets\\images\\pasta_carbonara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\pepperoni_lovers.jpg",
+      "PackagePath": "staticwebassets\\images\\pepperoni_lovers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\pizza.png",
+      "PackagePath": "staticwebassets\\images\\pizza.png"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\pretzel_bun_dog.jpg",
+      "PackagePath": "staticwebassets\\images\\pretzel_bun_dog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\quinoa_salad_bowl.jpg",
+      "PackagePath": "staticwebassets\\images\\quinoa_salad_bowl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\rainbow_roll.jpg",
+      "PackagePath": "staticwebassets\\images\\rainbow_roll.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\reuben_style_hot_dog.jpg",
+      "PackagePath": "staticwebassets\\images\\reuben_style_hot_dog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\salmon_nigiri.jpg",
+      "PackagePath": "staticwebassets\\images\\salmon_nigiri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\sashimi_platter.jpg",
+      "PackagePath": "staticwebassets\\images\\sashimi_platter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\shrimp_scampi.jpg",
+      "PackagePath": "staticwebassets\\images\\shrimp_scampi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\smoked_bbq_brisket.jpg",
+      "PackagePath": "staticwebassets\\images\\smoked_bbq_brisket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\southern_style_chicken_biscuit.jpg",
+      "PackagePath": "staticwebassets\\images\\southern_style_chicken_biscuit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\spicy_buffalo_wings.jpg",
+      "PackagePath": "staticwebassets\\images\\spicy_buffalo_wings.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\spicy_jalapeno_burger.jpg",
+      "PackagePath": "staticwebassets\\images\\spicy_jalapeno_burger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\spicy_moroccan_lamb_chops.jpg",
+      "PackagePath": "staticwebassets\\images\\spicy_moroccan_lamb_chops.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\spicy_tuna_roll.jpg",
+      "PackagePath": "staticwebassets\\images\\spicy_tuna_roll.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\spinach_and_feta_stuffed_chicken.jpg",
+      "PackagePath": "staticwebassets\\images\\spinach_and_feta_stuffed_chicken.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\stake_wrapped_filet_mignon.jpg",
+      "PackagePath": "staticwebassets\\images\\stake_wrapped_filet_mignon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\stuffed_bell_peppers_with_ground_turkey.jpg",
+      "PackagePath": "staticwebassets\\images\\stuffed_bell_peppers_with_ground_turkey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\tempura_shrimp_roll.jpg",
+      "PackagePath": "staticwebassets\\images\\tempura_shrimp_roll.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\teriyaki_chicken_wings.jpg",
+      "PackagePath": "staticwebassets\\images\\teriyaki_chicken_wings.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\teriyaki_glazed_chicken_thighs.jpg",
+      "PackagePath": "staticwebassets\\images\\teriyaki_glazed_chicken_thighs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\teriyaki_pineapple_pleasure.jpg",
+      "PackagePath": "staticwebassets\\images\\teriyaki_pineapple_pleasure.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\thai_red_curry.jpg",
+      "PackagePath": "staticwebassets\\images\\thai_red_curry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\vegetarian_pad_thai.jpg",
+      "PackagePath": "staticwebassets\\images\\vegetarian_pad_thai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\veggie_dog_with_sauerkraut.jpg",
+      "PackagePath": "staticwebassets\\images\\veggie_dog_with_sauerkraut.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\veggie_extravaganza.jpg",
+      "PackagePath": "staticwebassets\\images\\veggie_extravaganza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\veggie_roll.jpg",
+      "PackagePath": "staticwebassets\\images\\veggie_roll.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\veggie_supreme.jpg",
+      "PackagePath": "staticwebassets\\images\\veggie_supreme.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\images\\welcomeicon.png",
+      "PackagePath": "staticwebassets\\images\\welcomeicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Jasin\\source\\repos\\FoodDeliveryApp\\wwwroot\\menu.json",
+      "PackagePath": "staticwebassets\\menu.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FoodDeliveryApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FoodDeliveryApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FoodDeliveryApp.props",
+      "PackagePath": "build\\FoodDeliveryApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FoodDeliveryApp.props",
+      "PackagePath": "buildMultiTargeting\\FoodDeliveryApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FoodDeliveryApp.props",
+      "PackagePath": "buildTransitive\\FoodDeliveryApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

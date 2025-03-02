@@ -1,0 +1,522 @@
+{
+  "Category": [
+    {
+      "Id": 0,
+      "ImagePath": "pizza.png",
+      "Name": "Pizza"
+    },
+    {
+      "Id": 1,
+      "ImagePath": "burger.png",
+      "Name": "Burger"
+    },
+    {
+      "Id": 2,
+      "ImagePath": "dessert.png",
+      "Name": "Desserts"
+    },
+    {
+      "Id": 3,
+      "ImagePath": "drinks.png",
+      "Name": "Drinks"
+    }
+  ],
+  "Foods": [
+    {
+      "Id": 0,
+      "Title": "Burger and Cheese Heaven",
+      "Description": "A delightful combination of crispy patty and melted cheese.",
+      "ImagePath": "burger_and_cheese_heaven.jpg",
+      "CategoryId": 1,
+      "Price": 12.99
+    },
+    {
+      "Id": 1,
+      "Title": "Stake-Wrapped Filet Mignon",
+      "Description": "A tender filet mignon wrapped in smoky stake.",
+      "ImagePath": "stake_wrapped_filet_mignon.jpg",
+      "CategoryId": 1,
+      "Price": 29.99
+    },
+    {
+      "Id": 2,
+      "Title": "BBQ Chicken Delight",
+      "Description": "Juicy grilled chicken glazed with BBQ sauce.",
+      "ImagePath": "bbq_chicken_delight.jpg",
+      "CategoryId": 1,
+      "Price": 14.99
+    },
+    {
+      "Id": 3,
+      "Title": "BBQ Ranch Delight",
+      "Description": "BBQ chicken with ranch dressing on a crispy base.",
+      "ImagePath": "bbq_ranch_delight.jpg",
+      "CategoryId": 1,
+      "Price": 14.99
+    },
+    {
+      "Id": 4,
+      "Title": "Beef Stir-Fry with Broccoli",
+      "Description": "Tender beef stir-fried with fresh broccoli in a savory sauce.",
+      "ImagePath": "beef_stir_fry_with_broccoli.jpg",
+      "CategoryId": 1,
+      "Price": 15.99
+    },
+    {
+      "Id": 5,
+      "Title": "Berry Blast Smoothie",
+      "Description": "A refreshing smoothie packed with mixed berries.",
+      "ImagePath": "berry_blast_smoothie.jpg",
+      "CategoryId": 3,
+      "Price": 5.99
+    },
+    {
+      "Id": 6,
+      "Title": "California Roll",
+      "Description": "Fresh crab, avocado, and cucumber rolled in sushi rice.",
+      "ImagePath": "california_roll.jpg",
+      "CategoryId": 2,
+      "Price": 8.99
+    },
+    {
+      "Id": 7,
+      "Title": "Chicago Style Hot Dog",
+      "Description": "A classic Chicago-style hot dog with all the toppings.",
+      "ImagePath": "chicago_style_hot_dog.jpg",
+      "CategoryId": 1,
+      "Price": 6.99
+    },
+    {
+      "Id": 8,
+      "Title": "Chicken Avocado Bliss",
+      "Description": "Grilled chicken with creamy avocado sauce.",
+      "ImagePath": "chicken_avocado_bliss.jpg",
+      "CategoryId": 1,
+      "Price": 13.99
+    },
+    {
+      "Id": 9,
+      "Title": "Chili Cheese Dog",
+      "Description": "A hot dog topped with chili and cheese.",
+      "ImagePath": "chili_cheese_dog.jpg",
+      "CategoryId": 1,
+      "Price": 7.49
+    },
+    {
+      "Id": 10,
+      "Title": "Classic Beef Burger",
+      "Description": "A juicy beef burger with lettuce and tomato.",
+      "ImagePath": "classic_beef_burger.jpg",
+      "CategoryId": 1,
+      "Price": 10.99
+    },
+    {
+      "Id": 11,
+      "Title": "Classic Beef Hot Dog",
+      "Description": "A classic beef hot dog in a soft bun.",
+      "ImagePath": "classic_beef_hot_dog.jpg",
+      "CategoryId": 1,
+      "Price": 5.99
+    },
+    {
+      "Id": 12,
+      "Title": "Coconut Water",
+      "Description": "Refreshing coconut water, perfect for hydration.",
+      "ImagePath": "coconut_water.jpg",
+      "CategoryId": 3,
+      "Price": 3.49
+    },
+    {
+      "Id": 13,
+      "Title": "Dragon Roll",
+      "Description": "Delicious sushi roll with shrimp tempura and avocado.",
+      "ImagePath": "dragon_roll.jpg",
+      "CategoryId": 2,
+      "Price": 12.99
+    },
+    {
+      "Id": 14,
+      "Title": "Espresso Martini",
+      "Description": "A cocktail combining espresso and vodka.",
+      "ImagePath": "espresso_martini.jpg",
+      "CategoryId": 3,
+      "Price": 9.99
+    },
+    {
+      "Id": 15,
+      "Title": "Four Cheese Delight",
+      "Description": "A pizza loaded with four types of cheese.",
+      "ImagePath": "four_cheese_delight.jpg",
+      "CategoryId": 0,
+      "Price": 11.99
+    },
+    {
+      "Id": 16,
+      "Title": "Fresh Orange Juice",
+      "Description": "Freshly squeezed orange juice.",
+      "ImagePath": "fresh_orange_juice.jpg",
+      "CategoryId": 3,
+      "Price": 4.99
+    },
+    {
+      "Id": 17,
+      "Title": "Garlic Parmesan Chicken",
+      "Description": "Chicken wings tossed in garlic and Parmesan.",
+      "ImagePath": "garlic_parmesan_chicken.jpg",
+      "CategoryId": 1,
+      "Price": 9.99
+    },
+    {
+      "Id": 18,
+      "Title": "Green Tea Latte",
+      "Description": "A smooth blend of green tea and milk.",
+      "ImagePath": "green_tea_latte.jpg",
+      "CategoryId": 3,
+      "Price": 4.49
+    },
+    {
+      "Id": 19,
+      "Title": "Grilled Ribeye Steak",
+      "Description": "A perfectly grilled ribeye steak.",
+      "ImagePath": "grilled_ribeye_steak.jpg",
+      "CategoryId": 1,
+      "Price": 24.99
+    },
+    {
+      "Id": 20,
+      "Title": "Hawaiian BBQ Dog",
+      "Description": "Hot dog topped with Hawaiian BBQ sauce.",
+      "ImagePath": "hawaiian_bbq_dog.jpg",
+      "CategoryId": 1,
+      "Price": 7.99
+    },
+    {
+      "Id": 21,
+      "Title": "Hawaiian Paradise",
+      "Description": "Tropical flavors in a delicious blend.",
+      "ImagePath": "hawaiian_paradise.jpg",
+      "CategoryId": 3,
+      "Price": 5.99
+    },
+    {
+      "Id": 22,
+      "Title": "Honey Mustard Glazed Tenders",
+      "Description": "Chicken tenders glazed with honey mustard sauce.",
+      "ImagePath": "honey_mustard_glazed_tenders.jpg",
+      "CategoryId": 1,
+      "Price": 10.49
+    },
+    {
+      "Id": 23,
+      "Title": "Iced Caramel Macchiato",
+      "Description": "Chilled caramel macchiato with espresso and milk.",
+      "ImagePath": "iced_caramel_macchiato.jpg",
+      "CategoryId": 3,
+      "Price": 4.99
+    },
+    {
+      "Id": 24,
+      "Title": "Kimchi Hot Dog",
+      "Description": "Hot dog topped with spicy kimchi.",
+      "ImagePath": "kimchi_hot_dog.jpg",
+      "CategoryId": 1,
+      "Price": 8.49
+    },
+    {
+      "Id": 25,
+      "Title": "Korean BBQ Short Ribs",
+      "Description": "Tender short ribs glazed with Korean BBQ sauce.",
+      "ImagePath": "korean_bbq_short_ribs.jpg",
+      "CategoryId": 1,
+      "Price": 18.99
+    },
+    {
+      "Id": 26,
+      "Title": "Korean Fried Chicken",
+      "Description": "Crispy fried chicken with Korean spices.",
+      "ImagePath": "korean_fried_chicken.jpg",
+      "CategoryId": 1,
+      "Price": 14.99
+    },
+    {
+      "Id": 27,
+      "Title": "Lemon Pepper Chicken",
+      "Description": "Grilled chicken with lemon pepper seasoning.",
+      "ImagePath": "lemon_pepper_chicken.jpg",
+      "CategoryId": 1,
+      "Price": 12.99
+    },
+    {
+      "Id": 28,
+      "Title": "Mango Tango Slush",
+      "Description": "A refreshing mango slush drink.",
+      "ImagePath": "mango_tango_slush.jpg",
+      "CategoryId": 3,
+      "Price": 5.99
+    },
+    {
+      "Id": 29,
+      "Title": "Meat Feast Pizza",
+      "Description": "Loaded with various meats on a crispy base.",
+      "ImagePath": "meat_feast_pizza.jpg",
+      "CategoryId": 0,
+      "Price": 15.99
+    },
+    {
+      "Id": 30,
+      "Title": "Mediterranean Joy",
+      "Description": "A blend of Mediterranean flavors in a delicious dish.",
+      "ImagePath": "mediterranean_joy.jpg",
+      "CategoryId": 1,
+      "Price": 13.49
+    },
+    {
+      "Id": 31,
+      "Title": "Mint Lemonade",
+      "Description": "Refreshing mint lemonade.",
+      "ImagePath": "mint_lemonade.jpg",
+      "CategoryId": 3,
+      "Price": 4.99
+    },
+    {
+      "Id": 32,
+      "Title": "Mushroom Swiss Delight",
+      "Description": "Burger topped with mushrooms and Swiss cheese.",
+      "ImagePath": "mushroom_swiss_delight.jpg",
+      "CategoryId": 1,
+      "Price": 11.99
+    },
+    {
+      "Id": 33,
+      "Title": "Original Crispy Chicken",
+      "Description": "Crispy fried chicken with original flavor.",
+      "ImagePath": "original_crispy_chicken.jpg",
+      "CategoryId": 1,
+      "Price": 10.99
+    },
+    {
+      "Id": 34,
+      "Title": "Pan-Seared Garlic Butter Sirloin",
+      "Description": "Juicy sirloin steak seared with garlic butter.",
+      "ImagePath": "pan_seared_garlic_butter_sirloin.jpg",
+      "CategoryId": 1,
+      "Price": 22.99
+    },
+    {
+      "Id": 35,
+      "Title": "Pasta Carbonara",
+      "Description": "Classic pasta carbonara with creamy sauce.",
+      "ImagePath": "pasta_carbonara.jpg",
+      "CategoryId": 1,
+      "Price": 9.99
+    },
+    {
+      "Id": 36,
+      "Title": "Pepperoni Lovers",
+      "Description": "Pizza topped with loads of pepperoni.",
+      "ImagePath": "pepperoni_lovers.jpg",
+      "CategoryId": 0,
+      "Price": 11.99
+    },
+    {
+      "Id": 37,
+      "Title": "Pretzel Bun Dog",
+      "Description": "Hot dog served in a soft pretzel bun.",
+      "ImagePath": "pretzel_bun_dog.jpg",
+      "CategoryId": 1,
+      "Price": 7.49
+    },
+    {
+      "Id": 38,
+      "Title": "Quinoa Salad Bowl",
+      "Description": "Healthy quinoa salad with fresh veggies.",
+      "ImagePath": "quinoa_salad_bowl.jpg",
+      "CategoryId": 2,
+      "Price": 8.49
+    },
+    {
+      "Id": 39,
+      "Title": "Rainbow Roll",
+      "Description": "Sushi roll with a variety of fresh ingredients.",
+      "ImagePath": "rainbow_roll.jpg",
+      "CategoryId": 2,
+      "Price": 10.99
+    },
+    {
+      "Id": 40,
+      "Title": "Reuben Style Hot Dog",
+      "Description": "Hot dog with classic Reuben toppings.",
+      "ImagePath": "reuben_style_hot_dog.jpg",
+      "CategoryId": 1,
+      "Price": 8.99
+    },
+    {
+      "Id": 41,
+      "Title": "Salmon Nigiri",
+      "Description": "Fresh salmon nigiri served with wasabi.",
+      "ImagePath": "salmon_nigiri.jpg",
+      "CategoryId": 2,
+      "Price": 12.99
+    },
+    {
+      "Id": 42,
+      "Title": "Sashimi Platter",
+      "Description": "Assorted sashimi served with dipping sauces.",
+      "ImagePath": "sashimi_platter.jpg",
+      "CategoryId": 2,
+      "Price": 15.99
+    },
+    {
+      "Id": 43,
+      "Title": "Shrimp Scampi",
+      "Description": "Shrimp cooked in garlic butter sauce.",
+      "ImagePath": "shrimp_scampi.jpg",
+      "CategoryId": 1,
+      "Price": 16.99
+    },
+    {
+      "Id": 44,
+      "Title": "Smoked BBQ Brisket",
+      "Description": "Slow-cooked brisket with BBQ sauce.",
+      "ImagePath": "smoked_bbq_brisket.jpg",
+      "CategoryId": 1,
+      "Price": 18.99
+    },
+    {
+      "Id": 45,
+      "Title": "Southern-Style Chicken Biscuit",
+      "Description": "Fried chicken served on a biscuit.",
+      "ImagePath": "southern_style_chicken_biscuit.jpg",
+      "CategoryId": 1,
+      "Price": 9.99
+    },
+    {
+      "Id": 46,
+      "Title": "Spicy Buffalo Wings",
+      "Description": "Spicy chicken wings served with ranch.",
+      "ImagePath": "spicy_buffalo_wings.jpg",
+      "CategoryId": 1,
+      "Price": 11.99
+    },
+    {
+      "Id": 47,
+      "Title": "Spicy Jalapeño Burger",
+      "Description": "Burger topped with spicy jalapeños.",
+      "ImagePath": "spicy_jalapeno_burger.jpg",
+      "CategoryId": 1,
+      "Price": 10.99
+    },
+    {
+      "Id": 48,
+      "Title": "Spicy Moroccan Lamb Chops",
+      "Description": "Tender lamb chops with Moroccan spices.",
+      "ImagePath": "spicy_moroccan_lamb_chops.jpg",
+      "CategoryId": 1,
+      "Price": 19.99
+    },
+    {
+      "Id": 49,
+      "Title": "Spicy Tuna Roll",
+      "Description": "Sushi roll with spicy tuna filling.",
+      "ImagePath": "spicy_tuna_roll.jpg",
+      "CategoryId": 2,
+      "Price": 12.99
+    },
+    {
+      "Id": 50,
+      "Title": "Spinach and Feta Stuffed Chicken",
+      "Description": "Chicken breast stuffed with spinach and feta.",
+      "ImagePath": "spinach_and_feta_stuffed_chicken.jpg",
+      "CategoryId": 1,
+      "Price": 14.99
+    },
+    {
+      "Id": 51,
+      "Title": "Stuffed Bell Peppers with Ground Turkey",
+      "Description": "Bell peppers stuffed with ground turkey and spices.",
+      "ImagePath": "stuffed_bell_peppers_with_ground_turkey.jpg",
+      "CategoryId": 1,
+      "Price": 13.49
+    },
+    {
+      "Id": 52,
+      "Title": "Tempura Shrimp Roll",
+      "Description": "Crispy tempura shrimp in a sushi roll.",
+      "ImagePath": "tempura_shrimp_roll.jpg",
+      "CategoryId": 2,
+      "Price": 11.99
+    },
+    {
+      "Id": 53,
+      "Title": "Teriyaki Chicken Wings",
+      "Description": "Chicken wings glazed with teriyaki sauce.",
+      "ImagePath": "teriyaki_chicken_wings.jpg",
+      "CategoryId": 1,
+      "Price": 10.99
+    },
+    {
+      "Id": 54,
+      "Title": "Teriyaki Glazed Chicken Thighs",
+      "Description": "Tender chicken thighs glazed with teriyaki sauce.",
+      "ImagePath": "teriyaki_glazed_chicken_thighs.jpg",
+      "CategoryId": 1,
+      "Price": 12.99
+    },
+    {
+      "Id": 55,
+      "Title": "Teriyaki Pineapple Pleasure",
+      "Description": "Teriyaki chicken served with pineapple.",
+      "ImagePath": "teriyaki_pineapple_pleasure.jpg",
+      "CategoryId": 1,
+      "Price": 12.49
+    },
+    {
+      "Id": 56,
+      "Title": "Thai Red Curry",
+      "Description": "Spicy Thai curry with chicken and vegetables.",
+      "ImagePath": "thai_red_curry.jpg",
+      "CategoryId": 1,
+      "Price": 14.99
+    },
+    {
+      "Id": 57,
+      "Title": "Vegetarian Pad Thai",
+      "Description": "Stir-fried rice noodles with vegetables.",
+      "ImagePath": "vegetarian_pad_thai.jpg",
+      "CategoryId": 2,
+      "Price": 11.99
+    },
+    {
+      "Id": 58,
+      "Title": "Veggie Dog with Sauerkraut",
+      "Description": "Vegetarian hot dog topped with sauerkraut.",
+      "ImagePath": "veggie_dog_with_sauerkraut.jpg",
+      "CategoryId": 1,
+      "Price": 6.99
+    },
+    {
+      "Id": 59,
+      "Title": "Veggie Extravaganza",
+      "Description": "A delightful platter of assorted vegetables.",
+      "ImagePath": "veggie_extravaganza.jpg",
+      "CategoryId": 2,
+      "Price": 9.99
+    },
+    {
+      "Id": 60,
+      "Title": "Veggie Roll",
+      "Description": "Sushi roll filled with assorted vegetables.",
+      "ImagePath": "veggie_roll.jpg",
+      "CategoryId": 2,
+      "Price": 10.99
+    },
+    {
+      "Id": 61,
+      "Title": "Veggie Supreme",
+      "Description": "A delicious vegetable dish with various toppings.",
+      "ImagePath": "veggie_supreme.jpg",
+      "CategoryId": 2,
+      "Price": 9.49
+    }
+  ]
+}

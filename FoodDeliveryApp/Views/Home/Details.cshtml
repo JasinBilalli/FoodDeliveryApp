@@ -1,0 +1,53 @@
+﻿@model FoodDeliveryApp.Models.MenuItem
+
+<div class="card">
+    <img src="/images/@Model.ImagePath" class="card-img-top" alt="@Model.Title" style="height: 200px; object-fit: cover;" onerror="this.src='/images/placeholder.jpg';">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        <p class="card-text">@Model.Description</p>
+        <p class="card-text"><strong>$<span id="totalPrice">@Model.Price</span></strong></p>
+        <div class="input-group mb-3" style="max-width: 150px;">
+            <button class="btn btn-outline-secondary" type="button" id="minus">-</button>
+            <input type="number" class="form-control text-center" id="quantity" value="0" min="0">
+            <button class="btn btn-outline-secondary" type="button" id="plus">+</button>
+        </div>
+        <button class="btn btn-primary rounded" id="addToCart" data-id="@Model.Id">Add to Cart</button>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        var unitPrice = @Model.Price;
+        function updatePrice() {
+            var qty = parseInt($("#quantity").val());
+            var total = qty * unitPrice;
+            $("#totalPrice").text(total.toFixed(2));
+        }
+
+        $("#minus").click(function () {
+            var qty = parseInt($("#quantity").val());
+            if (qty > 0) {
+                $("#quantity").val(qty - 1);
+                updatePrice();
+            }
+        });
+
+        $("#plus").click(function () {
+            var qty = parseInt($("#quantity").val());
+            $("#quantity").val(qty + 1);
+            updatePrice();
+        });
+
+        $("#addToCart").click(function () {
+            var id = $(this).data("id");
+            var qty = $("#quantity").val();
+            $.post("/Home/AddToCart", { menuItemId: id, quantity: qty }, function (data) {
+                if (data.success) {
+                    $("#cartCount").text(data.cartCount);
+                }
+            });
+        });
+
+        updatePrice();
+    </script>
+}
