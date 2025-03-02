@@ -8,7 +8,7 @@ Fillimi (Getting Started)
 Hyrja në Aplikacion:
 Hapni një shfletues (p.sh., Chrome, Firefox).
 
-Shkruani URL-në e aplikacionit (p.sh., http://fooddeliveryapp.com).
+Shkruani URL-në e aplikacionit (ende nuk eshte gati).
 
 Regjistrimi dhe Identifikimi:
 Klikoni "Sign Up" për të krijuar një llogari:
